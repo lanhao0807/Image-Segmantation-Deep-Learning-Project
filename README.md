@@ -1,10 +1,10 @@
 # Image-Segmantation-Deep-Learning-Project
 
-This is a advanced computer vision project aim to reproduce a publication of our own choice.
+This is a advanced computer vision project aim to reproduce a publication of my own choice.
 
 The paper: "Spatial Structure Preserving Feature Pyramid Network for Semantic Image Segmentation". 
 
-No source code provided from the Paper.
+No source code provided from the publication.
 
 See resource/ for project reports and the orginial publication as well as some resources related.
 Result preview:
